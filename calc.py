@@ -2,7 +2,7 @@
 
 # This function adds two numbers 
 def add(x, y):
-   pause -30 min
+   pause -30 min test
 
 # This function subtracts two numbers 
 def subtract(x, y):
